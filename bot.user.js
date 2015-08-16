@@ -11,7 +11,7 @@ var aposBotVersion = 3.562;
 
 //TODO: Team mode
 //      Detect when people are merging
-//      Split to catch smaller targets
+//      Split to catch big targets
 //      Angle based cluster code
 //      Better wall code
 //      In team mode, make allies be obstacles.
